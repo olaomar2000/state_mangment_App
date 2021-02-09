@@ -1,16 +1,11 @@
-# state_mangment
+# ToDo App
 
-A new Flutter application.
+A new Flutter application with features of add ,edit,delet tasks and using proivder state mangment.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![TodoApp](https://user-images.githubusercontent.com/69324228/107370119-6ca09000-6a97-11eb-93c8-868c06ddcbfa.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
