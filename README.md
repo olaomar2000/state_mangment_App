@@ -1,6 +1,6 @@
 # ToDo App
 
-A new Flutter application with features of add ,edit,delete tasks and using proivder state mangment.
+A new Flutter application with features of add ,edit,delete tasks using proivder state mangment.
 
 
 
